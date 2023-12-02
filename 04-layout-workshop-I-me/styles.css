@@ -1,0 +1,8 @@
+.box {
+    background: lightseagreen;
+    /* min-height: 100px;
+    width: 100%; */
+    aspect-ratio: 1/1;
+    margin-bottom: 10px;
+  }
+  

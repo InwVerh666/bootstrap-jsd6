@@ -1,0 +1,41 @@
+/* .box {
+    background: lightseagreen;
+    min-height: 100px;
+    width: 100%;
+    margin-bottom: 10px;
+  }
+
+.right-side-container
+{
+    width: 25%;
+    float: right;
+}
+
+.box-right
+{
+    background: red;
+    width: 100%;
+    height: auto;
+
+} */
+
+.box
+{
+    background-color: rgb(187, 255, 0);
+    height: 100px;
+    width: auto;
+}
+
+.box-left
+{
+    background-color: aqua;
+    height: 100px;
+    width: auto;
+}
+
+.box-right
+{
+    background-color: antiquewhite;
+    height: 500px;
+    width: auto;
+}
